@@ -4,6 +4,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to bui
 
 ## ?? Featured Projects
 
+- **[Academic ERP System](https://github.com/AviralSrivastava7/Academic-ERP-System)**: Comprehensive full-stack Student Intelligence and Attendance portal.
 - **[Saathi AI](https://github.com/AviralSrivastava7/saathi-ai)**: AI-powered mental well-being companion built with Next.js.
 - **[Portfolio](https://github.com/AviralSrivastava7/portfolio)**: Professional personal showcase of my work and skills.
 - **[Study Tracker](https://github.com/AviralSrivastava7/study-tracker)**: Minimalism-focused productivity tool for students.
@@ -23,7 +24,7 @@ I'm a passionate **Full Stack Developer** and **AI Enthusiast** dedicated to bui
 
 - **Frontend**: React, Redux, HTML5, CSS3, JavaScript (ES6+)
 - **Backend**: Node.js, Express
-- **Databases**: MongoDB
+- **Databases**: MongoDB, SQL
 - **Languages**: C++, Java, Python
 
 ---
